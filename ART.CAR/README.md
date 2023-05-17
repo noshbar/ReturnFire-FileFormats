@@ -2,7 +2,7 @@
 
 `Art\art.car` contains all the sprites/textures in the game.
 
-An ImHex pattern is available as [part.hexpat](./art.hexpat),
+An ImHex pattern is available as [art.hexpat](./art.hexpat),
 as well as a Lazarus visualization app in [the lazarus_viewer folder](./lazarus_viewer/).
 
 ### File header
